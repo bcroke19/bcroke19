@@ -1,4 +1,4 @@
-- Hi, I’m @bcroke19
+- Hi, I’m Brielle Croke.
 - I’m a data science and psychology double major at Belmont graduating in December 2025.
 - I love to meet new people and find ways to help people by utilizing data to make better data-driven decisions.
 
